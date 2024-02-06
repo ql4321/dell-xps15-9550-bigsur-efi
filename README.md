@@ -1,6 +1,6 @@
 # dell-xps15-9550-bigsur-efi
 ### MAC OS bigsur 11.6.6 EFI 
-
+### dell-xps-9550-EFI-mouse-allreday 最新版本请用这个，修复了触摸板
 ## 配置
 型号：戴尔xps 15 9550 
 
