@@ -15,6 +15,7 @@ CPU：I7 6770HQ
 显卡：960M
 
 网卡：BCM94360Z4
+
 BrcmPatchRAM-2.6.2-RELEASE  是MACOS下的蓝牙驱动
 
 
