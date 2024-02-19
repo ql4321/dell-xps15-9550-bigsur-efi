@@ -24,4 +24,3 @@ BrcmPatchRAM-2.6.2-RELEASE  是MACOS下的蓝牙驱动
 隔空正常
 耳机可以正常使用，airpod，可能是我天线的问题，有点断续。
 睡眠正常
-触摸不能使用
